@@ -1,0 +1,7 @@
+OrderID,Product,Category,Quantity,Price,City,Total
+104,Laptop,Electronics,1,76000,Delhi,76000
+101,Laptop,Electronics,1,75000,Pune,75000
+105,Monitor,Electronics,1,12000,Delhi,12000
+103,Keyboard,Accessories,1,1500,Pune,1500
+106,Mouse,Accessories,3,500,Mumbai,1500
+102,Mouse,Accessories,2,500,Mumbai,1000
